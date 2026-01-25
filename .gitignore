@@ -1,0 +1,20 @@
+/*.gb
+/*.gb.pal
+/*.gb.spr
+/*.gb.bak
+/*.gbc
+/*.gbc.pal
+/*.gbc.spr
+/*.gbc.bak
+/*.sgb
+/*.sgb.pal
+/*.sgb.spr
+/*.sgb.bak
+/*.ss*
+*.sav
+*.sav.old
+/Arquivos Patches/*/*.gb
+/Arquivos Patches/*/*.gbc
+/Arquivos Patches/*/*.sgb
+test.bat
+copy_rom_to_anbernic.bat

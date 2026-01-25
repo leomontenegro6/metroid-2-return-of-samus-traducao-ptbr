@@ -1,0 +1,71 @@
+Jogo: Metroid II - Return of Samus
+Versão: Americana
+Console: Gameboy
+Ano da tradução: 2008
+Grupo de tradução: Trans-Center
+Tradutor: Solid_One
+MSN: the_solid_one@hotmail.com
+
+---------------------NOTAS-------------------
+
+Há dois patches: Um que manterá o jogo em preto-e-branco, outro com um patch de coloração incluso. A colorida deixará o jogo com uma aparência bem melhor, enquanto que a preto-e-branco funciona em portáteis anteriores ao Gameboy Color.
+
+-----------------SOBRE O JOGO----------------
+
+Continuação direta do Metroid de NES (também do Metroid Zero Mission, consequentemente), é o segundo jogo da série Metroid, e também o único lançado para Gameboy. A jogabilidade é bastante parecida com seu predecessor de NES, porém havendo melhorias gráficas e novos itens.
+
+-------------------SINOPSE-------------------
+
+Pouco tempo se passou desde que Samus destruiu a base dos Piratas Espaciais, situada em Zebes.
+
+Anteriormente em Zebes, Samus havia matado todos os Metroids e frustrado experimentos de procriação destes seres, feitos pelos Piratas Espaciais que lá residiam.
+
+Para evitar que alguém faça mau uso dos Metroids, a Federação Galáctica envia uma nave de pesquisa ao planeta SR388, terra natal dos Metroids, para colher informações para levar tal espécie à extinção. Porém, estranhamente o contato com esta nave foi perdido pouco tempo depois de chegarem lá. Enviaram equipes de resgate e pelotões de combate, um após outro, para investigarem. Mas, nenhum deles voltou vivo.
+
+Ao perceber a ameaça dos Metroids, a Federação Galáctica envia Samus a SR388, com uma missão: levar os Metroids à extinção. Deverá aprofundar-se nas suas escuras cavernas, caçando e matando-os um por um.
+
+Chegando lá, ela percebe que os Metroids em SR388 são muito mais fortes que os de antes. Os Metroids que ela matou em Zebes eram apenas larvas, enquanto que em SR388 a maioria deles estão em formas mais evoluídas. Lá, ela depara-se com vários tipos de Metroid: Alfa, Gama, Zeta, dentre outros.
+
+Será ela capaz de cumprir tal missão?
+
+---------------SOBRE A TRADUÇÃO--------------
+
+Estava entediado, dando uma olhadinha em umas roms de Gameboy. Ao ver o Metroid 2, percebi que o jogo é curto e tem pouquíssimos diálogos / gráficos.
+
+Iniciei a tradução ainda no meio da primeira semana de março de 2008. Foi uma boa experiência pra ver como é o funcionamento de Gameboy. E como ninguém chegou a traduzir esse jogo, senti-me mais motivado ainda em fazê-lo.
+
+O jogo é de 1991, um dos primeiros do portátil, que na época era totalmente preto e branco. Porém, encontrei na internet uns patches que alteram todo o arranjo de cores do Metroid 2, deixando-o colorido igual a um jogo de Gameboy Color.
+
+Lancei a tradução em dois patches: um em preto-e-branco, outro colorido. O patch colorido deixará o jogo muito melhor graficamente, mas trará consigo alguns poucos bugs e fará com que o jogo não rode mais em portáteis anteriores ao Gameboy Color. Já o preto-e-branco, apesar de não ficar tão bem-feito quanto o patch colorido, não perderá em retrocompatibilidade.
+
+E isso é tudo. Usufruam do privilégio \o/
+
+--------------STATUS DA TRADUÇÃO-------------
+
+Textos: 100%
+(Pouquíssimos diálogos.)
+
+Acentos: 100%
+(Foi complicado arrumar espaço pros acentos, mas deu certo no fim das contas.)
+
+Gráficos: 100%
+(Tudo descomprimido e extremamente fácil de achar)
+
+---------------AGRADECIMENTOS----------------
+
+-Zorlon, pelo patch de coloração que usei junto com a tradução
+-Darkl0rd, por ajudar na tradução de alguns termos
+	
+------------------HISTÓRIA-------------------
+
+Versão 1.1 - 08/03/09
+ Segunda lançamento. Versão Americana
+ - Tradução postada em dois patches: colorido e preto-e-branco;
+ - Algumas alterações gráficas.
+
+Versão 1.0 - 08/03/08
+ Primeiro lançamento. Versão Americana
+
+------------------CORÉCORÉ-------------------
+
+Se você encontrou algum erro ortográfico, de concordância ou algo parecido, por favor relate a mim por e-mail ou por MSN. Você encontra meu MSN no topo do arquivo.
