@@ -1,3 +1,2 @@
-- Editar "PRESS START" e "COMPLETED", ao salvar o jogo
-- Editar créditos
-- Tornar tradução compatível com o hack de coloração EJQRT e Map Hack do LOO-E
+- Tornar tradução compatível com o hack de coloração EJQRT
+- Tornar tradução compatível com o Map Hack do LOO-E
