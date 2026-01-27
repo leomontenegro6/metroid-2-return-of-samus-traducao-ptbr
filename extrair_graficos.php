@@ -2,6 +2,8 @@
 $graficos = [
     (object)['nome' => 'Tela-titulo e fontes', 'offset' => '0x015F34', 'tiles' => '16x16'],
     (object)['nome' => 'The End', 'offset' => '0x017E14', 'tiles' => '16x1'],
+    (object)['nome' => 'L left1', 'offset' => '0x018410', 'tiles' => '1x1'],
+    (object)['nome' => 'L left2', 'offset' => '0x018F10', 'tiles' => '1x1'],
     (object)['nome' => 'Icone Ice Beam', 'offset' => '0x01F7D0', 'tiles' => '2x2'],
     (object)['nome' => 'Icone Wave Beam', 'offset' => '0x01F810', 'tiles' => '2x2'],
     (object)['nome' => 'Icone Spazer Beam', 'offset' => '0x01F850', 'tiles' => '2x2'],

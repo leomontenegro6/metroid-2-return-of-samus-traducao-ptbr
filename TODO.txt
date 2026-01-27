@@ -1,2 +1,1 @@
-- Tornar tradução compatível com o hack de coloração EJQRT
 - Tornar tradução compatível com o Map Hack do LOO-E

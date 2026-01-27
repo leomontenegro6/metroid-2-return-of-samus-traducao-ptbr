@@ -7,6 +7,10 @@
     .incbin "Graficos/Editados/Tela-titulo e fontes.gb"
 .org 0x08017E14
     .incbin "Graficos/Editados/The End.gb"
+.org 0x08018410
+    .incbin "Graficos/Editados/L left1.gb"
+.org 0x08018F10
+    .incbin "Graficos/Editados/L left2.gb"
 .org 0x0801F7D0
     .incbin "Graficos/Editados/Icone Ice Beam.gb"
 .org 0x0801F810
