@@ -38,5 +38,8 @@ if !maphack! equ 1 (
 
 echo ==Inserindo graficos e textos traduzidos.==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_textos.asm
+if !colorization! equ 1 (
+    .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\creditos_ejrtq.asm
+)
 
 echo Done.
