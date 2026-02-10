@@ -1,0 +1,173 @@
+COVER
+
+—————————————————–
+[b]Informações[/b]
+—————————————————–
+
+[b]Nome do jogo[/b]: Metroid II - Return of Samus
+[b]Versão[/b]: Americana
+[b]Plataforma[/b]: Gameboy
+[b]Desenvolvedora[/b]: Nintendo
+[b]Distribuidora[/b]: Nintendo
+[b]Gênero[/b]: Plataforma / Metroidvania
+[b]Jogadores[/b]: 1
+
+—————————————————–
+[b]Enredo[/b]
+—————————————————–
+
+Pouco tempo se passou desde que Samus destruiu a base dos Piratas Espaciais, situada em Zebes.
+
+Anteriormente em Zebes, Samus havia matado todos os Metroids e frustrado experimentos de procriação destes seres, feitos pelos Piratas Espaciais que lá residiam.
+
+Para evitar que alguém faça mau uso dos Metroids, a Federação Galáctica envia uma nave de pesquisa ao planeta SR388, terra natal dos Metroids, para colher informações para levar tal espécie à extinção. Porém, estranhamente o contato com esta nave foi perdido pouco tempo depois de chegarem lá. Enviaram equipes de resgate e pelotões de combate, um após outro, para investigarem. Mas, nenhum deles voltou vivo.
+
+Ao perceber a ameaça dos Metroids, a Federação Galáctica envia Samus a SR388, com uma missão: levar os Metroids à extinção. Deverá aprofundar-se nas suas escuras cavernas, caçando e matando-os um por um.
+
+Chegando lá, ela percebe que os Metroids em SR388 são muito mais fortes que os de antes. Os Metroids que ela matou em Zebes eram apenas larvas, enquanto que em SR388 a maioria deles estão em formas mais evoluídas. Lá, ela depara-se com vários tipos de Metroid: Alfa, Gama, Zeta, dentre outros.
+
+Será ela capaz de cumprir tal missão?
+
+—————————————————–
+[b]Sobre a tradução[/b]
+—————————————————–
+
+Essa é uma tradução que iniciei desse jogo entre 2008 e 2009, enquanto membro do finado grupo da Trans-Center. Após ter feito a tradução do Metroid Zero Mission, o primeiro jogo da linha do tempo principal, vi que ainda não havia uma tradução para sua continuação de Gameboy lançada em 1991. Isso me motivou a seguir com o projeto, com o apoio do Darkl0rd. Foi durante meus primeiros anos de romhacking, e foi um projeto fácil e rápido, com pouquíssimos textos e gráficos para serem editados, zero compressão envolvida e sem necessidade de sequer manipular ponteiros.
+
+Em poucas semanas a versão 1.0 foi lançada, na época disponibilizada apenas em conjunto com o patch de coloração do Zorlon, que foi uma tentativa de converter o jogo para Gameboy Color adicionando mais cores, porém que era um tanto bugado. Alguns meses depois, a pedido de outros jogadores, foi lançada a versão 1.1, contendo correções menores e a disponibilização da tradução em dois patches: um sendo o jogo vanilla e outro a tradução combinada com o patch de coloração.
+
+Dezoito anos depois, após o lançamento do Metroid Prime 4 no final de 2025, criamos a "Iniciativa Metroid" com o objetivo de revisitar todas as fã-traduções de Metroid para adequá-las à terminologia de localização PT-BR oficial da Nintendo, tendo esse @[glossário](https://github.com/leomontenegro6/metroid-zero-mission-traducao-ptbr/blob/master/Anotacoes/Gloss%C3%A1rio.md) por base, contendo termos como:
+
+[list]
+[li]Morph Ball: Morfosfera[/li]
+[li]Spider Ball: Aracnosfera[/li]
+[li]Spring Ball: Saltosfera[/li]
+[li]Varia Suit: Traje Varia[/li]
+[li]Metroid: Metroid (mantido original)[/li]
+[/list]
+
+Esse é o segundo título dessa iniciativa a ter sua tradução revisada. No processo, optei praticamente por recriar a tradução inteira com armips, onde utilizei essa ferramenta como facilitador para inserção de assets traduzidos como textos e gráficos. No processo, os gráficos foram extraídos para arquivos avulsos, para serem editados no Tile Molester de forma externa à ROM, para em seguida serem inseridos via instruções [code]incbin[/code]. O mesmo valeu para os poucos textos ingame, onde foram criados vários arquivos .tbl menores para mapear os valores dos textos e tiles, para posteriormente serem inseridos via [code].stringn[/code]. 
+
+A tradução também foi recriada visando tornará-la compatível com alguns hacks como "EJRTQ Colorization" e "LOO-E Map Hack". O primeiro é tido como o melhor hack de colorização existente, lançado em 2019, sendo mais estável e melhor colorido que o antigo do Zorlon. O segundo é um hack que adiciona uma tela de mapa ao apertar start, lançado em 2015, melhorando consideravelmente a jogabilidade do jogo original. É possível jogar a tradução tanto avulsamente como combinado com esses hacks, feito este que foi possível graças ao apoio de colegas do servidor do discord do @[Metroid Construction](https://metroidconstruction.com/). No entanto, até então, ainda não dá pra combinar os hacks de colorização com o dos mapas, pois devido à forma como foram construídos, atualmente são incompatíveis um com o outro. Futuramente, está previsto uma forma de juntar ambos num hack de Metroid 2 DX, mas enquanto isso não ocorre, tenham em mente de usar só um ou outro.
+
+A versão 1.2 da tradução conta com as seguintes novidades:
+
+[list]
+[*]Inclusão da terminologia oficial introduzida no Metroid Prime 4
+[*]Tornada a tradução compatível com alguns hacks de aprimoramento, como:
+[list]
+[*]@[EJRTQ Colorization 1.3](https://metroidconstruction.com/hack.php?id=400): Hack que converte o jogo de gameboy monocromático em gameboy color, adicionando cores únicas para inimigos e cenários diversos.
+[*]@[LOO-E Map Hack 1.2](https://metroidconstruction.com/hack.php?id=844): Hack que adiciona um mapa detalhado que registra a posição do jogador, itens coletados, níveis de ácido e metroids mortos. Também adiciona uma tela de inventário que permite ativar/desativar habilidades da Samus.
+[/list]
+[/list]
+
+Nos nossos testes, os hacks de aprimoramento acima funcionaram muito bem com a tradução. No entanto, para outros hacks além dos listados acima, será preciso fazer trabalhos adicionais de adaptação, o que pode ser relativamente trabalhoso. Caso alguém se interesse em tentar tornar a tradução compatível com algum outro hack, veja a seção de perguntas e respostas.
+
+Com isso, lançamos a versão 1.2 da tradução, após quase 18 anos depois. Espero que usufruam desse trabalho, da mesma forma que também o fizemos nesse processo.
+
+—————————————————–
+[b]Equipe[/b]
+—————————————————–
+
+[list]
+[li][b]Solid One[/b]: Romhacking geral, gráficos, tradução e teste;[/li]
+[li][b]Darkl0rd[/b]: Revisão e teste ingame da versão 1.0 lá de 2008;[/li]
+[li][b]Ted[/b]: Criação de capas traduzidas;[/li]
+[/list]
+
+—————————————————–
+[b][i]Status[/i] da Tradução[/b]
+—————————————————–
+
+[b]Textos[/b]: 100%
+[b]Acentos[/b]: 100%
+[b]Gráficos[/b]: 100%
+[b]Revisão[/b]: 100%
+
+—————————————————–
+[b]Ferramentas Utilizadas/Desenvolvidas[/b]
+—————————————————–
+
+[list]
+[li][b][url="https://mh-nexus.de/en/hxd/"]HxD Hex Editor[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url="https://www.romhacking.net/utilities/291/"]WindHex[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url="https://www.romhacking.net/utilities/991/"]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
+[li][b][url="https://github.com/Kingcom/armips"]armips assembler[/url][/b] : Ferramenta utilizada para remontar a rom, após edições.[/li]
+[li][b][url="https://code.visualstudio.com/"]Visual Studio Code[/url][/b] : Utilizado para traduzir os scripts em ARMIPS, cortesia do Breno;[/li]
+[/list]
+
+—————————————————–
+Changelog
+—————————————————–
+
+[b]Versão 1.2[/b]: xx/02/26
+ Terceiro lançamento.
+ - Revisão de terminologia, de modo a sincronizar termos com a localização oficial PT-BR introduzida no Metroid Prime 4
+ - Tornada a tradução compatível com alguns hacks de aprimoramento, como EJRTQ Colorization e LOO-E Map Hack
+ - Removido suporte ao hack de coloração do Zorlon, em detrimento do suporte ao EJRTQ Colorization
+
+[b]Versão 1.1[/b]: 10/01/2026
+ Segundo lançamento.
+ - Revisão de terminologia, de modo a sincronizar termos com a localização oficial PT-BR introduzida no Metroid Prime 4
+ - Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas)
+ - Tornada a tradução compatível com alguns hacks de aprimoramento, como ProjectZM, Super Metroid Revamp e MZM Randomizer.
+
+[b]Versão 1.0[/b]: 06/02/2008
+ Primeiro lançamento.
+
+—————————————————–
+[b]Agradecimentos[/b]
+—————————————————–
+
+[list]
+[li]Nintendo, por ter criado a série Metroid;[/li]
+[li]Darkl0rd, pela revisão da versão 1.0 lá de 2008;[/li]
+[li]Ao pessoal do finado grupo da Trans-center, pelo apoio e ajuda na tradução original de 2008;[/li]
+[li]Ao Zorlon, pelo patch de coloração originalmente usado lá em 2008;[/li]
+[li]Ao Ted e lMRlAsura por me ajudar com a versão 1.2 e a Iniciativa Metroid.[/li]
+[li]Ao Quantam, pelo EJRTQ Colorization.[/li]
+[li]Ao LOO-E, pelo Map Hack e por todo o suporte dado no processo de portar a tradução.[/li]
+[li]À toda comunidade do Metroid Construction, pelo suporte geral.[/li]
+[/list]
+
+—————————————————–
+[b]Perguntas e Respostas[/b]
+—————————————————–
+
+P1: Como eu faço para combinar a tradução com os patches de aprimoramento, como EJRTQ Colorization e LOO-E Map Hack por exemplo?
+
+R1: Junto ao arquivo zipado contendo o patch de tradução da versão vanilla, também estão patches opcionais contendo a tradução e cada patch de aprimoramento combinados. Optei por distribuir assim para facilitar o uso para usuários finais, e esses patches foram inclusos mediante permissão dos autores originais.
+
+P2: É possível combinar simultaneamente o EJRTQ Colorization e LOO-E Map Hack?
+
+R2: Infelizmente, devido à forma como cada hack foi construído, eles atualmente são incompatíveis entre si. No entanto, está sendo criado um hack novo chamado [url=https://github.com/ShadowOne333/Metroid2-Redux]Metroid 2 Redux[/url], com a ideia de criar uma versão definitiva do jogo, contemplando coloração, hack de mapas e diversos outros aprimoramentos. Enquanto isso, o melhor que dá pra fazer é jogar a versão de gameboy em modo GBC, que define os backgrounds em azul e os sprites em amarelo com vermelho, assim contendo algumas cores a mais.
+
+P3: A tradução é compatível com outros hacks de aprimoramento, além dos mencionados?
+
+R3: Até o momento, apenas o EJRTQ Colorization e o LOO-E Map Hack foram tornados compatíveis com a tradução. Para cada um deles, foi necessário fazer certo um volume de trabalho que foi além de apenas mergear assets, chegando a precisar retraduzir diversos assets do jogo. Dependendo de cada caso, pode ser que o mesmo talvez precise ser feito para outros hacks, o que seria mais trabalhoso. No entanto, caso queira tornar algum outro hack compatível com a tradução, sinta-se livre de forkar o repositório e experimentar.
+
+—————————————————–
+[b]Imagens[/b]
+—————————————————–
+
+Original Vanilla:
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+
+EJRTQ Colorization:
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+
+LOO-E Map Hack:
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+
+—————————————————–
+[b][i]Patch[/i][/b]
+—————————————————–
+
+Segue abaixo os patches da tradução, para download. Estão em formato IPS, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/1040/"]Floating IPS[/url] ou similares. O patch deve ser aplicado na rom [b]Metroid II - Return of Samus (W) [!].gb[/b], com header, de crc [b]DEE05370[/b] / md5sum [b]9639948AD274FA15281F549E5F9C4D87[/b].
+
+[url="https://github.com/leomontenegro6/metroid-2-return-of-samus/releases"][i]Download[/i][/url]

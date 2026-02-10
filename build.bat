@@ -29,6 +29,7 @@ copy orig.gb m2ros.gb
 if !colorization! equ 1 (
     echo ==Aplicando IPS do EJRTQ Colorization.==
     .\Ferramentas\flips.exe --apply ".\Arquivos Patches\EJRTQ Colorization\metroid ii - color (ejrtq) v1.3.ips" .\m2ros.gb .\m2ros.gb
+    .\Ferramentas\flips.exe --apply ".\Arquivos Patches\EJRTQ Colorization\metroid_ii_-_color_ejrtq_v1-3_-_addendum.ips" .\m2ros.gb .\m2ros.gb
 )
 
 if !maphack! equ 1 (
