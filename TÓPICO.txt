@@ -46,9 +46,9 @@ Dezoito anos depois, após o lançamento do Metroid Prime 4 no final de 2025, cr
 [li]Metroid: Metroid (mantido original)[/li]
 [/list]
 
-Esse é o segundo título dessa iniciativa a ter sua tradução revisada. No processo, optei praticamente por recriar a tradução inteira com armips, onde utilizei essa ferramenta como facilitador para inserção de assets traduzidos como textos e gráficos. No processo, os gráficos foram extraídos para arquivos avulsos, para serem editados no Tile Molester de forma externa à ROM, para em seguida serem inseridos via instruções `incbin`. O mesmo valeu para os poucos textos ingame, onde foram criados vários arquivos .tbl menores para mapear os valores dos textos e tiles, para posteriormente serem inseridos via `.stringn`. 
+Esse é o segundo título dessa iniciativa a ter sua tradução revisada. No processo, optei praticamente por recriar a tradução inteira com armips, onde utilizei essa ferramenta como facilitador para inserção de assets traduzidos como textos e gráficos. No processo, os gráficos foram extraídos para arquivos avulsos, para serem editados no Tile Molester de forma externa à ROM, para em seguida serem inseridos via instruções `.incbin`. O mesmo valeu para os poucos textos ingame, onde foram criados vários arquivos .tbl menores para mapear os valores dos textos e tiles, para posteriormente serem inseridos via `.stringn`. 
 
-A tradução também foi recriada visando tornará-la compatível com alguns hacks como "EJRTQ Colorization" e "LOO-E Map Hack". O primeiro é tido como o melhor hack de colorização existente, lançado em 2019, sendo mais estável e melhor colorido que o antigo do Zorlon. O segundo é um hack que adiciona uma tela de mapa ao apertar start, lançado em 2015, melhorando consideravelmente a jogabilidade do jogo original. É possível jogar a tradução tanto avulsamente como combinado com esses hacks, feito este que foi possível graças ao apoio de colegas do servidor do discord do [url=https://metroidconstruction.com/]Metroid Construction[/url]. No entanto, até então, ainda não dá pra combinar os hacks de colorização com o dos mapas, pois devido à forma como foram construídos, atualmente são incompatíveis um com o outro. Futuramente, está previsto uma forma de juntar ambos num hack de Metroid 2 DX, mas enquanto isso não ocorre, tenham em mente de usar só um ou outro.
+A tradução também foi recriada visando tornará-la compatível com alguns hacks como "EJRTQ Colorization" e "LOO-E Map Hack". O primeiro é tido como o melhor hack de colorização existente, lançado em 2019, sendo mais estável e melhor colorido que o antigo do Zorlon. O segundo é um hack que adiciona uma tela de mapa ao apertar start, lançado em 2025, melhorando consideravelmente a jogabilidade do jogo original. É possível jogar a tradução tanto avulsamente como combinado com esses hacks, feito este que foi possível graças ao apoio de colegas do servidor do discord do [url=https://metroidconstruction.com/]Metroid Construction[/url]. No entanto, até então, ainda não dá pra combinar os hacks de colorização com o dos mapas, pois devido à forma como foram construídos, atualmente são incompatíveis um com o outro. Futuramente, está previsto uma forma de juntar ambos num hack de Metroid 2 DX, mas enquanto isso não ocorre, tenham em mente de usar só um ou outro.
 
 A versão 1.2 da tradução conta com as seguintes novidades:
 
@@ -93,7 +93,7 @@ Com isso, lançamos a versão 1.2 da tradução, após quase 18 anos depois. Esp
 [li][b][url="https://www.romhacking.net/utilities/291/"]WindHex[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
 [li][b][url="https://www.romhacking.net/utilities/991/"]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
 [li][b][url="https://github.com/Kingcom/armips"]armips assembler[/url][/b] : Ferramenta utilizada para remontar a rom, após edições.[/li]
-[li][b][url="https://code.visualstudio.com/"]Visual Studio Code[/url][/b] : Utilizado para traduzir os scripts em ARMIPS, cortesia do Breno;[/li]
+[li][b][url="https://code.visualstudio.com/"]Visual Studio Code[/url][/b] : Utilizado para codar os scripts em armips e para facilitar no versionamento;[/li]
 [/list]
 
 —————————————————–
@@ -107,10 +107,9 @@ Changelog
  - Removido suporte ao hack de coloração do Zorlon, em detrimento do suporte ao EJRTQ Colorization
 
 [b]Versão 1.1[/b]: 10/01/2026
- Segundo lançamento.
- - Revisão de terminologia, de modo a sincronizar termos com a localização oficial PT-BR introduzida no Metroid Prime 4
- - Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas)
- - Tornada a tradução compatível com alguns hacks de aprimoramento, como ProjectZM, Super Metroid Revamp e MZM Randomizer.
+ Segunda lançamento.
+ - Tradução postada em dois patches: colorido e preto-e-branco;
+ - Algumas alterações gráficas.
 
 [b]Versão 1.0[/b]: 06/02/2008
  Primeiro lançamento.
