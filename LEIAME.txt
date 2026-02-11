@@ -69,7 +69,7 @@ Com isso, lançamos a versão 1.2 da tradução, após quase 18 anos depois. Esp
 Atualizações da Tradução
 ------------------
 
-Versão 1.2 - xx/02/26
+Versão 1.2 - 10/02/26
  Terceiro lançamento.
  - Revisão de terminologia, de modo a sincronizar termos com a localização oficial PT-BR introduzida no Metroid Prime 4
  - Tornada a tradução compatível com alguns hacks de aprimoramento, como EJRTQ Colorization e LOO-E Map Hack

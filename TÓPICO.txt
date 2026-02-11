@@ -1,4 +1,4 @@
-COVER
+[img]https://i.imgur.com/ufFbarD.gif[/img]
 
 —————————————————–
 [b]Informações[/b]
@@ -36,7 +36,7 @@ Essa é uma tradução que iniciei desse jogo entre 2008 e 2009, enquanto membro
 
 Em poucas semanas a versão 1.0 foi lançada, na época disponibilizada apenas em conjunto com o patch de coloração do Zorlon, que foi uma tentativa de converter o jogo para Gameboy Color adicionando mais cores, porém que era um tanto bugado. Alguns meses depois, a pedido de outros jogadores, foi lançada a versão 1.1, contendo correções menores e a disponibilização da tradução em dois patches: um sendo o jogo vanilla e outro a tradução combinada com o patch de coloração.
 
-Dezoito anos depois, após o lançamento do Metroid Prime 4 no final de 2025, criamos a "Iniciativa Metroid" com o objetivo de revisitar todas as fã-traduções de Metroid para adequá-las à terminologia de localização PT-BR oficial da Nintendo, tendo esse @[glossário](https://github.com/leomontenegro6/metroid-zero-mission-traducao-ptbr/blob/master/Anotacoes/Gloss%C3%A1rio.md) por base, contendo termos como:
+Dezoito anos depois, após o lançamento do Metroid Prime 4 no final de 2025, criamos a "Iniciativa Metroid" com o objetivo de revisitar todas as fã-traduções de Metroid para adequá-las à terminologia de localização PT-BR oficial da Nintendo, tendo esse [url=https://github.com/leomontenegro6/metroid-zero-mission-traducao-ptbr/blob/master/Anotacoes/Gloss%C3%A1rio.md]glossário[/url] por base, contendo termos como:
 
 [list]
 [li]Morph Ball: Morfosfera[/li]
@@ -46,9 +46,9 @@ Dezoito anos depois, após o lançamento do Metroid Prime 4 no final de 2025, cr
 [li]Metroid: Metroid (mantido original)[/li]
 [/list]
 
-Esse é o segundo título dessa iniciativa a ter sua tradução revisada. No processo, optei praticamente por recriar a tradução inteira com armips, onde utilizei essa ferramenta como facilitador para inserção de assets traduzidos como textos e gráficos. No processo, os gráficos foram extraídos para arquivos avulsos, para serem editados no Tile Molester de forma externa à ROM, para em seguida serem inseridos via instruções [code]incbin[/code]. O mesmo valeu para os poucos textos ingame, onde foram criados vários arquivos .tbl menores para mapear os valores dos textos e tiles, para posteriormente serem inseridos via [code].stringn[/code]. 
+Esse é o segundo título dessa iniciativa a ter sua tradução revisada. No processo, optei praticamente por recriar a tradução inteira com armips, onde utilizei essa ferramenta como facilitador para inserção de assets traduzidos como textos e gráficos. No processo, os gráficos foram extraídos para arquivos avulsos, para serem editados no Tile Molester de forma externa à ROM, para em seguida serem inseridos via instruções `incbin`. O mesmo valeu para os poucos textos ingame, onde foram criados vários arquivos .tbl menores para mapear os valores dos textos e tiles, para posteriormente serem inseridos via `.stringn`. 
 
-A tradução também foi recriada visando tornará-la compatível com alguns hacks como "EJRTQ Colorization" e "LOO-E Map Hack". O primeiro é tido como o melhor hack de colorização existente, lançado em 2019, sendo mais estável e melhor colorido que o antigo do Zorlon. O segundo é um hack que adiciona uma tela de mapa ao apertar start, lançado em 2015, melhorando consideravelmente a jogabilidade do jogo original. É possível jogar a tradução tanto avulsamente como combinado com esses hacks, feito este que foi possível graças ao apoio de colegas do servidor do discord do @[Metroid Construction](https://metroidconstruction.com/). No entanto, até então, ainda não dá pra combinar os hacks de colorização com o dos mapas, pois devido à forma como foram construídos, atualmente são incompatíveis um com o outro. Futuramente, está previsto uma forma de juntar ambos num hack de Metroid 2 DX, mas enquanto isso não ocorre, tenham em mente de usar só um ou outro.
+A tradução também foi recriada visando tornará-la compatível com alguns hacks como "EJRTQ Colorization" e "LOO-E Map Hack". O primeiro é tido como o melhor hack de colorização existente, lançado em 2019, sendo mais estável e melhor colorido que o antigo do Zorlon. O segundo é um hack que adiciona uma tela de mapa ao apertar start, lançado em 2015, melhorando consideravelmente a jogabilidade do jogo original. É possível jogar a tradução tanto avulsamente como combinado com esses hacks, feito este que foi possível graças ao apoio de colegas do servidor do discord do [url=https://metroidconstruction.com/]Metroid Construction[/url]. No entanto, até então, ainda não dá pra combinar os hacks de colorização com o dos mapas, pois devido à forma como foram construídos, atualmente são incompatíveis um com o outro. Futuramente, está previsto uma forma de juntar ambos num hack de Metroid 2 DX, mas enquanto isso não ocorre, tenham em mente de usar só um ou outro.
 
 A versão 1.2 da tradução conta com as seguintes novidades:
 
@@ -56,8 +56,8 @@ A versão 1.2 da tradução conta com as seguintes novidades:
 [*]Inclusão da terminologia oficial introduzida no Metroid Prime 4
 [*]Tornada a tradução compatível com alguns hacks de aprimoramento, como:
 [list]
-[*]@[EJRTQ Colorization 1.3](https://metroidconstruction.com/hack.php?id=400): Hack que converte o jogo de gameboy monocromático em gameboy color, adicionando cores únicas para inimigos e cenários diversos.
-[*]@[LOO-E Map Hack 1.2](https://metroidconstruction.com/hack.php?id=844): Hack que adiciona um mapa detalhado que registra a posição do jogador, itens coletados, níveis de ácido e metroids mortos. Também adiciona uma tela de inventário que permite ativar/desativar habilidades da Samus.
+[*][url=https://metroidconstruction.com/hack.php?id=400]EJRTQ Colorization 1.3[/url]: Hack que converte o jogo de gameboy monocromático em gameboy color, adicionando cores únicas para inimigos e cenários diversos.
+[*][url=https://metroidconstruction.com/hack.php?id=844]LOO-E Map Hack 1.2[/url]: Hack que adiciona um mapa detalhado que registra a posição do jogador, itens coletados, níveis de ácido e metroids mortos. Também adiciona uma tela de inventário que permite ativar/desativar habilidades da Samus.
 [/list]
 [/list]
 
@@ -100,7 +100,7 @@ Com isso, lançamos a versão 1.2 da tradução, após quase 18 anos depois. Esp
 Changelog
 —————————————————–
 
-[b]Versão 1.2[/b]: xx/02/26
+[b]Versão 1.2[/b]: 10/02/26
  Terceiro lançamento.
  - Revisão de terminologia, de modo a sincronizar termos com a localização oficial PT-BR introduzida no Metroid Prime 4
  - Tornada a tradução compatível com alguns hacks de aprimoramento, como EJRTQ Colorization e LOO-E Map Hack
@@ -151,18 +151,18 @@ R3: Até o momento, apenas o EJRTQ Colorization e o LOO-E Map Hack foram tornado
 —————————————————–
 
 Original Vanilla:
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
+[img width=320]https://i.imgur.com/apdbVFK.png[/img] [img width=320]https://i.imgur.com/7PhaSEm.png[/img]
+[img width=320]https://i.imgur.com/9ImJtAi.png[/img] [img width=320]https://i.imgur.com/xBygaIT.png[/img]
 
 EJRTQ Colorization:
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
+[img width=320]https://i.imgur.com/iW8JRIi.png[/img] [img width=320]https://i.imgur.com/w0j5WKI.png[/img]
+[img width=320]https://i.imgur.com/QnM4Hym.png[/img] [img width=320]https://i.imgur.com/5BpkVY5.png[/img]
 
 LOO-E Map Hack:
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
+[img width=320]https://i.imgur.com/UNwFEa8.png[/img] [img width=320]https://i.imgur.com/b8ZerZZ.png[/img]
+[img width=320]https://i.imgur.com/SBpkxvd.png[/img] [img width=320]https://i.imgur.com/uzUqS2z.png[/img]
+[img width=320]https://i.imgur.com/S8r2xfQ.png[/img] [img width=320]https://i.imgur.com/3DJdjM1.png[/img]
+[img width=320]https://i.imgur.com/hcv7mJI.png[/img] [img width=320]https://i.imgur.com/hqCU9hC.png[/img]
 
 —————————————————–
 [b][i]Patch[/i][/b]
